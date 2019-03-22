@@ -1,0 +1,15 @@
+{
+  "name": "encryption_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "secretmsecuremessage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "node-forge": "0.7.4"
+  },
+  "author": "R. Ian Bull <irbull@eclipsesource.com>",
+  "license": "ISC"
+}
